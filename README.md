@@ -1,7 +1,7 @@
 # ConfigurationReaderApp
 
 Bu uygulamada .NET CORE 6 sürümü kullanılmıştır.\
-ConfigurationApp, appconfig veya webconfin'in yanı sıra dinamik olarak ayarlarınızı tutabileceğiniz bir projedir. Verilen süreye göre kendini tekrar çalıştıran bir yapıya sahiptir.\
+ConfigurationApp, appconfig veya webconfin'in yanı sıra dinamik olarak ayarlarınızı tutabileceğiniz bir projedir. Verilen süreye göre kendini tekrar çalıştıran bir yapıya sahiptir.
 
 ## Yapılması gerekenler
 1-ConfigurationApp içindeki docker-compose.yml dosyası ile redis serverini localhostta kurmak (docker-compose -f docker-compose.yml up).\
