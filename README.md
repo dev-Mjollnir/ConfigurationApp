@@ -9,4 +9,4 @@ Bu uygulamada .NET CORE 6 sürümü kullanılmıştır.
 Bu adımlardan sonra ConfigurationApp içindeki GetValue<T>(string key) methodu kullanabilirsiniz.
   
 #Test Çalışmaları\
-ConfigurationTestUnit projesi içinde kullanabileceğiniz 3 adet test methodu yazılmıştır.\
+ConfigurationTestUnit projesi içinde kullanabileceğiniz 3 adet test methodu yazılmıştır.
