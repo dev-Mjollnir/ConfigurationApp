@@ -1,4 +1,4 @@
-# ConfigurationReaderApp
+## ConfigurationReaderApp
 
 Bu uygulamada .NET CORE 6 sürümü kullanılmıştır.
 
