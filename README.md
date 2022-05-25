@@ -8,7 +8,7 @@ ConfigurationApp, appconfig veya webconfin'in yanı sıra dinamik olarak ayarlar
 2-ConfigurationApp projesini build aldıktan sonra oluşan dll dosyasını projenize referans göstermek.\
 3-Projeninizde bulunan bin/debug/net6.0 dizininin içine records.db dosyasını atmak.\
 Bu adımlardan sonra ConfigurationApp 'i 
->>new ConfigurationReader(_connectionString, _applicationName, _refreshTimerIntervalInMs); 
+>new ConfigurationReader(_connectionString, _applicationName, _refreshTimerIntervalInMs); \
 şeklinde çağırıp oluşturduğunuz nesne ile GetValue<T>(string key) methodunu kullanabilirsiniz.
   
 ## Test Çalışmaları
